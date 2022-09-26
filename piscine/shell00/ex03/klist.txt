@@ -1,0 +1,6 @@
+Credentials cache: API:54877DA6-2A9A-43AD-9025-A19F6CF22E98
+        Principal: juwkim@42SEOUL.KR
+
+  Issued                Expires             Flags    Principal
+Apr 16 12:03:02 2022  Apr 16 22:03:02 2022  FPRIA  krbtgt/42SEOUL.KR@42SEOUL.KR
+Apr 16 12:03:04 2022  Apr 16 22:03:02 2022  FPA    HTTP/student-storage.42seoul.kr@42SEOUL.KR
