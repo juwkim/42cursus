@@ -6,7 +6,7 @@
 /*   By: juwkim <juwkim@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/10/04 00:46:49 by juwkim            #+#    #+#             */
-/*   Updated: 2022/10/05 04:48:11 by juwkim           ###   ########.fr       */
+/*   Updated: 2022/10/06 22:41:58 by juwkim           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -14,7 +14,6 @@
 # define GET_NEXT_LINE_BONUS_H
 
 # include <unistd.h>
-# include <stdio.h>
 # include <stdlib.h>
 # include <fcntl.h>
 # include <limits.h>
