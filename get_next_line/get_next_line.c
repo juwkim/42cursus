@@ -6,7 +6,7 @@
 /*   By: juwkim <juwkim@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/10/04 00:47:12 by juwkim            #+#    #+#             */
-/*   Updated: 2022/10/05 04:52:01 by juwkim           ###   ########.fr       */
+/*   Updated: 2022/10/06 21:35:39 by juwkim           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -21,7 +21,7 @@ int	get_line(char *buf, char **rest, ssize_t read_size, char **rtn)
 	idx = ft_strchr(buf, '\n');
 	if (idx != -1)
 	{
-		if (idx < read_size && buf[idx + 1])
+		if (buf[idx + 1])
 			*rest = ft_substr(buf, idx + 1, read_size - idx - 1);
 		buf[idx + 1] = '\0';
 	}
