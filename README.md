@@ -25,6 +25,8 @@
 	<a href="#-42s-galaxy-curriculum">42's galaxy (curriculum)</a>
 </h3>
 
+---
+
 ## 💡 About 42 School
 
 	42 is a private, nonprofit and tuition-free computer programming school that proposes a new
