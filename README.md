@@ -18,11 +18,13 @@
 </p>
 
 <h3 align="center">
-	<a href="💡 About 42 School">About 42</a>
+	<a href="#-about-42-school">About 42</a>
 	<span> · </span>
-	<a href="#%EF%B8%8F-skills-developed-at-42cursus">Skills developed at 42cursus</a>
+	<a href="#️-skills-developed-at-42cursus">Skills developed at 42cursus</a>
 	<span> · </span>
 	<a href="#-42s-galaxy-curriculum">42's galaxy (curriculum)</a>
+	<span> · </span>
+	<a href="#camera-juwkims-42-cursus-intra-profile">Juwkim's intra profile</a>
 </h3>
 
 ---
@@ -97,6 +99,6 @@ The table below presents the cursus curriculum in the chronological order in whi
 
 ---
 
-## :camera: My 42 Cursus Intra Profile
+## :camera: Juwkim's 42 Cursus Intra Profile
 
 [![juwkim's 42 stats](https://badge42.vercel.app/api/v2/clbby9tdf00160fkyz1qixsez/stats?cursusId=21&coalitionId=88)](https://profile.intra.42.fr/users/juwkim)
