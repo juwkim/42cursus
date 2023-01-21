@@ -16,3 +16,6 @@
 [submodule "02-so_long"]
 	path = 02-so_long
 	url = https://github.com/juwkim/so_long.git
+[submodule "02-push_swap"]
+	path = 02-push_swap
+	url = https://github.com/juwkim/push_swap.git
