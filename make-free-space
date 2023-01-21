@@ -14,7 +14,6 @@ TARGET=(
 )
 
 FLAG="$HOME/goinfre/issetup"
-
 function link_all_cache_dirs() {
   echo "link Code Slack Cache dirs..."
   for ((i = 0; i < ${#TARGET[@]}; i++)); do
