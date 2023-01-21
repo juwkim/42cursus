@@ -37,7 +37,7 @@
 	The "C Piscine" is a 26-day C programming bootcamp, and the last stage in the selection process
 	for becoming a 42's student.
 
-\* For further information about 42's **selection process** (the "Piscine"), please visit the [C Piscine repo](https://github.com/juwkim/piscine).
+\* For further information about 42's **selection process** (the "Piscine"), please visit the [C Piscine repository](https://github.com/juwkim/piscine).
 
 ## 🛠️ Skills developed at 42cursus
 
