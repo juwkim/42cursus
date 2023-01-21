@@ -83,20 +83,20 @@ The table below presents the cursus curriculum in the chronological order in whi
 
 | Circle | Project                                                      |  Language  |                            Score                              |  Level   |
 | :----: | :----------------------------------------------------------- | :--------: | :-----------------------------------------------------------: | :------: |
-|00	 |[Libft](https://github.com/juwkim/libft)		        |C	     | [![juwkim's 42 Libft Score](https://badge42.vercel.app/api/v2/cl2x5uevu002109jwhuo9pmin/project/2254838)](https://github.com/JaeSeoKim/badge42) | 1.05      |
+|00	 |[libft](https://github.com/juwkim/libft)		        |C	     | [![juwkim's 42 libft Score](https://badge42.vercel.app/api/v2/cl2x5uevu002109jwhuo9pmin/project/2254838)](https://github.com/JaeSeoKim/badge42) | 1.05      |
 |:dizzy:|						                |	     |						                     |          |
-|01	 |[get_next_line](https://github.com/Surfi89/get_next_line)	|C	     | [![ajordan-'s 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl2x5uevu002109jwhuo9pmin/project/2292011)](https://github.com/JaeSeoKim/badge42) | 1.54	 |
-|01	 |[ft_printf](https://github.com/Surfi89/ft_printf)		|C	     | [![ajordan-'s 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl2x5uevu002109jwhuo9pmin/project/2292011)](https://github.com/JaeSeoKim/badge42)| 1.95	|
-|01	 |[Born2beroot](https://github.com/Surfi89/Born2beroot)		|Networks    | [![ajordan-'s 42 Born2beroot Score](https://badge42.vercel.app/api/v2/cl2x5uevu002109jwhuo9pmin/project/2338109)](https://github.com/JaeSeoKim/badge42)      | 2.18		|
+|01	 |[get_next_line](https://github.com/juwkim/get_next_line)	|C	     | [![juwkim's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl2x5uevu002109jwhuo9pmin/project/2292011)](https://github.com/JaeSeoKim/badge42) | 1.54	 |
+|01	 |[ft_printf](https://github.com/juwkim/ft_printf)		|C	     | [![juwkim's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl2x5uevu002109jwhuo9pmin/project/2292011)](https://github.com/JaeSeoKim/badge42)| 1.95	|
+|01	 |[Born2beroot](https://github.com/juwkim/Born2beroot)		|Networks    | [![juwkim's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/cl2x5uevu002109jwhuo9pmin/project/2338109)](https://github.com/JaeSeoKim/badge42)      | 2.18		|
 |:dizzy:|								|	     |							             |		 |
-|02	 |[push_swap](https://github.com/Surfi89/push_swap)		|C	     | [![ajordan-'s 42 push_swap Score](https://badge42.vercel.app/api/v2/cl2x5uevu002109jwhuo9pmin/project/2380373)](https://github.com/JaeSeoKim/badge42)| 2.96  |
-|02	 |[minitalk](https://github.com/Surfi89/minitalk)							|C	| [![ajordan-'s 42 minitalk Score](https://badge42.vercel.app/api/v2/cl2x5uevu002109jwhuo9pmin/project/2499061)](https://github.com/JaeSeoKim/badge42)						     |	3.21	 |
-|02	 |[so_long](https://github.com/Surfi89/so_long)							|C, Computer Graphics	| [![ajordan-'s 42 so_long Score](https://badge42.vercel.app/api/v2/cl2x5uevu002109jwhuo9pmin/project/2583960)](https://github.com/JaeSeoKim/badge42)						     |	3.42	 |
-|02	 |Exam Rank 02							|-	| [![ajordan-'s 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/cl2x5uevu002109jwhuo9pmin/project/2370781)](https://github.com/JaeSeoKim/badge42)	|	 |
+|02	 |[push_swap](https://github.com/juwkim/push_swap)		|C	     | [![juwkim's 42 push_swap Score](https://badge42.vercel.app/api/v2/cl2x5uevu002109jwhuo9pmin/project/2380373)](https://github.com/JaeSeoKim/badge42)| 2.96  |
+|02	 |[minitalk](https://github.com/juwkim/minitalk)							|C	| [![juwkim's 42 minitalk Score](https://badge42.vercel.app/api/v2/cl2x5uevu002109jwhuo9pmin/project/2499061)](https://github.com/JaeSeoKim/badge42)						     |	3.21	 |
+|02	 |[so_long](https://github.com/juwkim/so_long)							|C, Computer Graphics	| [![juwkim's 42 so_long Score](https://badge42.vercel.app/api/v2/cl2x5uevu002109jwhuo9pmin/project/2583960)](https://github.com/JaeSeoKim/badge42)						     |	3.42	 |
+|02	 |Exam Rank 02							|-	| [![juwkim's 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/cl2x5uevu002109jwhuo9pmin/project/2370781)](https://github.com/JaeSeoKim/badge42)	|	 |
 |:dizzy:|								|			|						     |		 |
-|03	 |[Philosophers]()						|Assembly		|[![ajordan-'s 42 Philosophers Score](https://badge42.vercel.app/api/v2/cl2x5uevu002109jwhuo9pmin/project/2584443)](https://github.com/JaeSeoKim/badge42)						     |		 |
+|03	 |[Philosophers]()						|Assembly		|[![juwkim's 42 Philosophers Score](https://badge42.vercel.app/api/v2/cl2x5uevu002109jwhuo9pmin/project/2584443)](https://github.com/JaeSeoKim/badge42)						     |		 |
 |03	 |[minishell]()							|C			|						     |		 |
-|03	 |Exam Rank 03							|-			|[![ajordan-'s 42 Exam Rank 03 Score](https://badge42.vercel.app/api/v2/cl2x5uevu002109jwhuo9pmin/project/2584442)](https://github.com/JaeSeoKim/badge42)					     |		 |
+|03	 |Exam Rank 03							|-			|[![juwkim's 42 Exam Rank 03 Score](https://badge42.vercel.app/api/v2/cl2x5uevu002109jwhuo9pmin/project/2584442)](https://github.com/JaeSeoKim/badge42)					     |		 |
 |:dizzy:|								|		        |						     |		 |
 |04	 |[NetPractice]()						|Networking		|						     |		 |
 |04	 |[cub3d]()							|C, Computer Graphics	|						     |		 |
