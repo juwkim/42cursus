@@ -33,7 +33,7 @@
 	The "C Piscine" is a 26-day C programming bootcamp, and the last stage in the selection process
 	for becoming a 42's student.
 
-\* For further information about 42's **selection process** (the "Piscine"), please visit the [C Piscine repo](https://github.com/surfi89/42piscine).
+\* For further information about 42's **selection process** (the "Piscine"), please visit the [C Piscine repo](https://github.com/juwkim/piscine).
 
 ## 🛠️ Skills developed at 42cursus
 
@@ -71,9 +71,9 @@
 
 ## 🌌 42's galaxy (curriculum)
 
-**42cursus** comprises two groups of projects: the first one being known as _"inner circle"_ or _"common core"_ and the second one, _"outer treks"_ - due to the **Holy Graph** layout.
+**42cursus** comprises two groups of projects: the first one being known as _"inner circle"_ and the second one, _"outer treks"_ - due to the **Holy Graph** layout.
 
-The **common core** is the basic curriculum, with all projects being mandatory to attain level 7 - which is the minimum level required for activities such as internships and interchange.
+The **inner circle** is the basic curriculum, with all projects being mandatory to attain level 7 - which is the minimum level required for activities such as internships and interchange.
 
 The **outer treks** is a collection of diverse project trails in subjects ranging from operational systems to web development which allows cadets to specialize on whatever subject they prefer.
 
@@ -83,7 +83,7 @@ The table below presents the cursus curriculum in the chronological order in whi
 
 | Circle | Project                                                      |  Language  |                            Score                              |  Level   |
 | :----: | :----------------------------------------------------------- | :--------: | :-----------------------------------------------------------: | :------: |
-|00	 |[Libft](https://github.com/surfi89/lift/)		        |C	     | [![ajordan-'s 42 Libft Score](https://badge42.vercel.app/api/v2/cl2x5uevu002109jwhuo9pmin/project/2254838)](https://github.com/JaeSeoKim/badge42) | 1.05      |
+|00	 |[Libft](https://github.com/juwkim/libft)		        |C	     | [![juwkim's 42 Libft Score](https://badge42.vercel.app/api/v2/cl2x5uevu002109jwhuo9pmin/project/2254838)](https://github.com/JaeSeoKim/badge42) | 1.05      |
 |:dizzy:|						                |	     |						                     |          |
 |01	 |[get_next_line](https://github.com/Surfi89/get_next_line)	|C	     | [![ajordan-'s 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl2x5uevu002109jwhuo9pmin/project/2292011)](https://github.com/JaeSeoKim/badge42) | 1.54	 |
 |01	 |[ft_printf](https://github.com/Surfi89/ft_printf)		|C	     | [![ajordan-'s 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl2x5uevu002109jwhuo9pmin/project/2292011)](https://github.com/JaeSeoKim/badge42)| 1.95	|
@@ -117,4 +117,4 @@ The table below presents the cursus curriculum in the chronological order in whi
 
 ## :camera: My 42 Cursus Intra Profile
 
-[![ajordan-'s 42 stats](https://badge42.vercel.app/api/v2/cl2x5uevu002109jwhuo9pmin/stats?cursusId=21&coalitionId=173)](https://github.com/JaeSeoKim/badge42)
+[![juwkim's 42 stats](https://badge42.vercel.app/api/v2/clbby9tdf00160fkyz1qixsez/stats?cursusId=21&coalitionId=88)](https://profile.intra.42.fr/users/juwkim)
