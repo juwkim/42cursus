@@ -19,3 +19,6 @@
 [submodule "02-push_swap"]
 	path = 02-push_swap
 	url = https://github.com/juwkim/push_swap.git
+[submodule "piscine"]
+	path = piscine
+	url = https://github.com/juwkim/piscine.git
