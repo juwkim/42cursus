@@ -96,6 +96,7 @@ The table below presents the cursus curriculum in the chronological order in whi
 |02	|[so_long](https://github.com/juwkim/so_long)			|Computer Graphics			|3.05	|![juwkim's 42 so_long Score](https://badge42.vercel.app/api/v2/clbby9tdf00160fkyz1qixsez/project/2859026)	  |
 |02	|[push_swap](https://github.com/juwkim/push_swap)		|Sorting algorithms			|3.44	|![juwkim's 42 push_swap Score](https://badge42.vercel.app/api/v2/clbby9tdf00160fkyz1qixsez/project/2859027)	    |
 |:dizzy:|								|					|	|	|
+|03	|[philosopher](https://github.com/juwkim/philosopher)		|Multithreading & MultiProcessing	|4.05	|![juwkim's 42 Philosophers Score](https://badge42.vercel.app/api/v2/clbby9tdf00160fkyz1qixsez/project/2941744)	 |
 
 ---
 
