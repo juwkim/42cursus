@@ -87,16 +87,17 @@ The table below presents the cursus curriculum in the chronological order in whi
 |:---:	|:---:								|:---:					|:---:	|:---:	|
 |00	|[libft](https://github.com/juwkim/libft)			|Algorithm				|1.06	|![juwkim's 42 Libft Score](https://badge42.vercel.app/api/v2/clbby9tdf00160fkyz1qixsez/project/2694165)	|
 |:dizzy:|								|					|	|	|
-|01	|[get_next_line](https://github.com/juwkim/get_next_line)	|Algorithm				|1.55	|![juwkim's 42 get_next_line Score](https://badge42.vercel.app/api/v2/clbby9tdf00160fkyz1qixsez/project/2801825)  |
+|01	|[get_next_line](https://github.com/juwkim/get_next_line)	|Algorithm				|1.55	|![juwkim's 42 get_next_line Score](https://badge42.vercel.app/api/v2/clbby9tdf00160fkyz1qixsez/project/2801825)	|
 |01	|[ft_printf](https://github.com/juwkim/ft_printf)		|Algorithm				|2.03	|![juwkim's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl2x5uevu002109jwhuo9pmin/project/2292011)	    |
 |01	|[Born2beroot](https://github.com/juwkim/Born2beroot)		|Network & System administration	|2.26	|![juwkim's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/clbby9tdf00160fkyz1qixsez/project/2801826)	      |
 |:dizzy:|								|					|	|	|
-|02	|Exam Rank 02							|-					|-	|![juwkim's 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/cl2x5uevu002109jwhuo9pmin/project/2370781)	 |
+|02	|Exam Rank 02							|-					|-	|![juwkim's 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/cl2x5uevu002109jwhuo9pmin/project/2370781)	       |
 |02	|[minitalk](https://github.com/juwkim/minitalk)			|Unix & Algorithm			|2.70	|![juwkim's 42 minitalk Score](https://badge42.vercel.app/api/v2/clbby9tdf00160fkyz1qixsez/project/2857300)	   |
 |02	|[so_long](https://github.com/juwkim/so_long)			|Computer Graphics			|3.05	|![juwkim's 42 so_long Score](https://badge42.vercel.app/api/v2/clbby9tdf00160fkyz1qixsez/project/2859026)	  |
 |02	|[push_swap](https://github.com/juwkim/push_swap)		|Sorting algorithms			|3.44	|![juwkim's 42 push_swap Score](https://badge42.vercel.app/api/v2/clbby9tdf00160fkyz1qixsez/project/2859027)	    |
 |:dizzy:|								|					|	|	|
-|03	|[philosopher](https://github.com/juwkim/philosopher)		|MultiThreading & MultiProcessing	|4.05	|![juwkim's 42 Philosophers Score](https://badge42.vercel.app/api/v2/clbby9tdf00160fkyz1qixsez/project/2941744)	 |
+|03	|Exam Rank 03							|-					|-	|![juwkim's 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/clbby9tdf00160fkyz1qixsez/project/2856986)	       |
+|03	|[philosopher](https://github.com/juwkim/philosopher)		|MultiThreading & MultiProcessing	|4.05	|![juwkim's 42 Philosophers Score](https://badge42.vercel.app/api/v2/clbby9tdf00160fkyz1qixsez/project/2941744)	       |
 
 ---
 
