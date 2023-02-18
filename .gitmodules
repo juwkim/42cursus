@@ -22,3 +22,6 @@
 [submodule "piscine"]
 	path = piscine
 	url = https://github.com/juwkim/piscine.git
+[submodule "minishell"]
+	path = minishell
+	url = https://github.com/juwkim/minishell.git
