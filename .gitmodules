@@ -25,3 +25,6 @@
 [submodule "03-minishell"]
 	path = 03-minishell
 	url = https://github.com/juwkim/minishell.git
+[submodule "03-philosopher"]
+	path = 03-philosopher
+	url = https://github.com/juwkim/philosopher.git
