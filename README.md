@@ -98,7 +98,7 @@ The table below presents the cursus curriculum in the chronological order in whi
 |:dizzy:|								|					|	|	|
 |03	|Exam Rank 03							|-					|-	|![juwkim's 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/clbby9tdf00160fkyz1qixsez/project/2856986)	       |
 |03	|[philosopher](https://github.com/juwkim/philosopher)		|MultiThreading & MultiProcessing	|4.05	|![juwkim's 42 Philosophers Score](https://badge42.vercel.app/api/v2/clbby9tdf00160fkyz1qixsez/project/2941744)	       |
-
+|03	|[minishell](https://github.com/juwkim/minishell)		|Parsing & Unix signal & MultiProcessing|4.25	|![juwkim's 42 minishell Score](https://badge42.vercel.app/api/v2/clbby9tdf00160fkyz1qixsez/project/2971066)	       |
 ---
 
 ## :camera: Juwkim's 42 Cursus Intra Profile
