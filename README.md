@@ -85,7 +85,7 @@ The table below presents the cursus curriculum in the chronological order in whi
 
 |Circle	|Project							|Skill					|Level	|Score	|
 |:---:	|:---:								|:---:					|:---:	|:---:	|
-|00	|[libft](https://github.com/juwkim/libft)			|Algorithm				|1.06	|![juwkim's 42 Libft Score](https://badge42.vercel.app/api/v2/clbby9tdf00160fkyz1qixsez/project/2694165)	|
+|00	|[libft](https://github.com/juwkim/libft)			|Algorithm				|1.06	|[![juwkim's 42 Libft Score](https://badge42.vercel.app/api/v2/clbby9tdf00160fkyz1qixsez/project/2694165)](https://projects.intra.42.fr/projects/42cursus-ft_printf/projects_users/2755901)	|
 |:dizzy:|								|					|	|	|
 |01	|[get_next_line](https://github.com/juwkim/get_next_line)	|Algorithm				|1.55	|![juwkim's 42 get_next_line Score](https://badge42.vercel.app/api/v2/clbby9tdf00160fkyz1qixsez/project/2801825)	|
 |01	|[ft_printf](https://github.com/juwkim/ft_printf)		|Algorithm				|2.03	|![juwkim's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl2x5uevu002109jwhuo9pmin/project/2292011)	    |
