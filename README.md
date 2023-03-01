@@ -92,7 +92,7 @@ The table below presents the cursus curriculum in the chronological order in whi
 |:dizzy:|								|					|	|	|
 |02	|Exam Rank 02							|-					|-	|[![juwkim's 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/cl2x5uevu002109jwhuo9pmin/project/2370781)](https://projects.intra.42.fr/projects/exam-rank-02/projects_users/2856986)           |
 |02	|[minitalk](https://github.com/juwkim/minitalk)			|Unix & Algorithm			|2.70	|[![juwkim's 42 minitalk Score](https://badge42.vercel.app/api/v2/clbby9tdf00160fkyz1qixsez/project/2857300)](https://projects.intra.42.fr/projects/minitalk/projects_users/2857300)               |
-|02	|[so_long](https://github.com/juwkim/so_long)			|Computer Graphics			|3.05	|[![juwkim's 42 so_long Score](https://badge42.vercel.app/api/v2/clbby9tdf00160fkyz1qixsez/project/2859026)](https://projects.intra.42.fr/projects/so_long/projects_users/2859026)                |
+|02	|[so_long](https://github.com/juwkim/so_long)			|Computer Graphics & 2D Game		|3.05	|[![juwkim's 42 so_long Score](https://badge42.vercel.app/api/v2/clbby9tdf00160fkyz1qixsez/project/2859026)](https://projects.intra.42.fr/projects/so_long/projects_users/2859026)                |
 |02	|[push_swap](https://github.com/juwkim/push_swap)		|Sorting algorithms			|3.44	|[![juwkim's 42 push_swap Score](https://badge42.vercel.app/api/v2/clbby9tdf00160fkyz1qixsez/project/2859027)](https://projects.intra.42.fr/projects/42cursus-push_swap/projects_users/2859027)     |
 |:dizzy:|								|					|	|	|
 |03	|Exam Rank 03							|-					|-	|[![juwkim's 42 Exam Rank 03 Score](https://badge42.vercel.app/api/v2/clbby9tdf00160fkyz1qixsez/project/2941742)](https://projects.intra.42.fr/projects/exam-rank-03/projects_users/2941742)           |
@@ -101,7 +101,7 @@ The table below presents the cursus curriculum in the chronological order in whi
 |:dizzy:|								|					|	|	|
 |04	|Exam Rank 04							|-					|-	|[![juwkim's 42 Exam Rank 04 Score](https://badge42.vercel.app/api/v2/clbby9tdf00160fkyz1qixsez/project/2986848)](https://projects.intra.42.fr/projects/exam-rank-04/projects_users/2986848)           |
 |04	|[NetPractice](https://github.com/juwkim/NetPractice)		|Network				|4.43	|[![juwkim's 42 NetPractice Score](https://badge42.vercel.app/api/v2/clbby9tdf00160fkyz1qixsez/project/2986851)](https://projects.intra.42.fr/projects/netpractice/projects_users/2986851)            |
-|04	|[miniRT](https://github.com/juwkim/miniRT)			|Computer Graphics & Raytracing		|-	|![juwkim's 42 miniRT Score](https://badge42.vercel.app/api/v2/clbby9tdf00160fkyz1qixsez/project/3003347)	 |
+|04	|[miniRT](https://github.com/juwkim/miniRT)			|Computer Graphics & 3D Raytracing	|-	|![juwkim's 42 miniRT Score](https://badge42.vercel.app/api/v2/clbby9tdf00160fkyz1qixsez/project/3003347)	 |
 |04	|[CPP Module_00](https://github.com/juwkim/CPP_Module_00)	|CPP					|-	|![juwkim's 42 CPP Module 00 Score](https://badge42.vercel.app/api/v2/clbby9tdf00160fkyz1qixsez/project/2986853)  |
 
 ---
