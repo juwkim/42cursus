@@ -85,25 +85,25 @@ The table below presents the cursus curriculum in the chronological order in whi
 
 |Circle	|Project							|Skill					|Level	|Score	|
 |:---:	|:---:								|:---:					|:---:	|:---:	|
-|00	|[libft](https://github.com/juwkim/libft)			|Algorithm				|1.06	|[![juwkim's 42 Libft Score](https://badge42.vercel.app/api/v2/clbby9tdf00160fkyz1qixsez/project/2694165)](https://projects.intra.42.fr/projects/42cursus-libft/projects_users/2694165)         |
+|00	|[libft](https://github.com/juwkim/libft)			|Algorithm				|1.06	|[![juwkim's 42 Libft Score](https://badge42.vercel.app/api/v2/clbby9tdf00160fkyz1qixsez/project/2694165)](https://projects.intra.42.fr/42cursus-libft/juwkim)         |
 |:dizzy:|								|					|	|	|
-|01	|[get_next_line](https://github.com/juwkim/get_next_line)	|Algorithm				|1.55	|[![juwkim's 42 get_next_line Score](https://badge42.vercel.app/api/v2/clbby9tdf00160fkyz1qixsez/project/2801825)](https://projects.intra.42.fr/projects/42cursus-get_next_line/projects_users/2801825)	|
-|01	|[ft_printf](https://github.com/juwkim/ft_printf)		|Algorithm				|2.03	|[![juwkim's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl2x5uevu002109jwhuo9pmin/project/2292011)](https://projects.intra.42.fr/projects/42cursus-ft_printf/projects_users/2755901)	    |
-|01	|[Born2beroot](https://github.com/juwkim/Born2beroot)		|Network & System administration	|2.26	|[![juwkim's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/clbby9tdf00160fkyz1qixsez/project/2801826)](https://projects.intra.42.fr/projects/born2beroot/projects_users/2801826)            |
+|01	|[get_next_line](https://github.com/juwkim/get_next_line)	|Algorithm				|1.55	|[![juwkim's 42 get_next_line Score](https://badge42.vercel.app/api/v2/clbby9tdf00160fkyz1qixsez/project/2801825)](https://projects.intra.42.fr/42cursus-get_next_line/juwkim)	|
+|01	|[ft_printf](https://github.com/juwkim/ft_printf)		|Algorithm				|2.03	|[![juwkim's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl2x5uevu002109jwhuo9pmin/project/2292011)](https://projects.intra.42.fr/42cursus-ft_printf/juwkim)	    |
+|01	|[Born2beroot](https://github.com/juwkim/Born2beroot)		|Network & System administration	|2.26	|[![juwkim's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/clbby9tdf00160fkyz1qixsez/project/2801826)](https://projects.intra.42.fr/born2beroot/juwkim)            |
 |:dizzy:|								|					|	|	|
-|02	|Exam Rank 02							|-					|-	|[![juwkim's 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/cl2x5uevu002109jwhuo9pmin/project/2370781)](https://projects.intra.42.fr/projects/exam-rank-02/projects_users/2856986)           |
-|02	|[minitalk](https://github.com/juwkim/minitalk)			|Unix & Algorithm			|2.70	|[![juwkim's 42 minitalk Score](https://badge42.vercel.app/api/v2/clbby9tdf00160fkyz1qixsez/project/2857300)](https://projects.intra.42.fr/projects/minitalk/projects_users/2857300)               |
-|02	|[so_long](https://github.com/juwkim/so_long)			|Computer Graphics & 2D Game		|3.05	|[![juwkim's 42 so_long Score](https://badge42.vercel.app/api/v2/clbby9tdf00160fkyz1qixsez/project/2859026)](https://projects.intra.42.fr/projects/so_long/projects_users/2859026)                |
-|02	|[push_swap](https://github.com/juwkim/push_swap)		|Sorting algorithms			|3.44	|[![juwkim's 42 push_swap Score](https://badge42.vercel.app/api/v2/clbby9tdf00160fkyz1qixsez/project/2859027)](https://projects.intra.42.fr/projects/42cursus-push_swap/projects_users/2859027)     |
+|02	|Exam Rank 02							|-					|-	|[![juwkim's 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/cl2x5uevu002109jwhuo9pmin/project/2370781)](https://projects.intra.42.fr/exam-rank-02/juwkim)           |
+|02	|[minitalk](https://github.com/juwkim/minitalk)			|Unix & Algorithm			|2.70	|[![juwkim's 42 minitalk Score](https://badge42.vercel.app/api/v2/clbby9tdf00160fkyz1qixsez/project/2857300)](https://projects.intra.42.fr/minitalk/juwkim)               |
+|02	|[so_long](https://github.com/juwkim/so_long)			|Computer Graphics & 2D Game		|3.05	|[![juwkim's 42 so_long Score](https://badge42.vercel.app/api/v2/clbby9tdf00160fkyz1qixsez/project/2859026)](https://projects.intra.42.fr/so_long/juwkim)                |
+|02	|[push_swap](https://github.com/juwkim/push_swap)		|Sorting algorithms			|3.44	|[![juwkim's 42 push_swap Score](https://badge42.vercel.app/api/v2/clbby9tdf00160fkyz1qixsez/project/2859027)](https://projects.intra.42.fr/42cursus-push_swap/juwkim)     |
 |:dizzy:|								|					|	|	|
-|03	|Exam Rank 03							|-					|-	|[![juwkim's 42 Exam Rank 03 Score](https://badge42.vercel.app/api/v2/clbby9tdf00160fkyz1qixsez/project/2941742)](https://projects.intra.42.fr/projects/exam-rank-03/projects_users/2941742)           |
-|03	|[philosopher](https://github.com/juwkim/philosopher)		|MultiThreading & MultiProcessing	|4.05	|[![juwkim's 42 Philosophers Score](https://badge42.vercel.app/api/v2/clbby9tdf00160fkyz1qixsez/project/2941744)](https://projects.intra.42.fr/projects/42cursus-philosophers/projects_users/2941744)  |
-|03	|[minishell](https://github.com/juwkim/minishell)		|Parsing & Unix signal & MultiProcessing|4.25	|[![juwkim's 42 minishell Score](https://badge42.vercel.app/api/v2/clbby9tdf00160fkyz1qixsez/project/2971066)](https://projects.intra.42.fr/projects/42cursus-minishell/projects_users/2971066)     |
+|03	|Exam Rank 03							|-					|-	|[![juwkim's 42 Exam Rank 03 Score](https://badge42.vercel.app/api/v2/clbby9tdf00160fkyz1qixsez/project/2941742)](https://projects.intra.42.fr/exam-rank-03/juwkim)           |
+|03	|[philosopher](https://github.com/juwkim/philosopher)		|MultiThreading & MultiProcessing	|4.05	|[![juwkim's 42 Philosophers Score](https://badge42.vercel.app/api/v2/clbby9tdf00160fkyz1qixsez/project/2941744)](https://projects.intra.42.fr/42cursus-philosophers/juwkim)  |
+|03	|[minishell](https://github.com/juwkim/minishell)		|Parsing & Unix signal & MultiProcessing|4.25	|[![juwkim's 42 minishell Score](https://badge42.vercel.app/api/v2/clbby9tdf00160fkyz1qixsez/project/2971066)](https://projects.intra.42.fr/42cursus-minishell/juwkim)     |
 |:dizzy:|								|					|	|	|
-|04	|Exam Rank 04							|-					|-	|[![juwkim's 42 Exam Rank 04 Score](https://badge42.vercel.app/api/v2/clbby9tdf00160fkyz1qixsez/project/2986848)](https://projects.intra.42.fr/projects/exam-rank-04/projects_users/2986848)           |
-|04	|[NetPractice](https://github.com/juwkim/NetPractice)		|Network				|4.43	|[![juwkim's 42 NetPractice Score](https://badge42.vercel.app/api/v2/clbby9tdf00160fkyz1qixsez/project/2986851)](https://projects.intra.42.fr/projects/netpractice/projects_users/2986851)            |
-|04	|[cub3d](https://github.com/juwkim/cub3d)			|Computer Graphics & 3D Raycasting	|4.77	|![juwkim's 42 cub3d Score](https://badge42.vercel.app/api/v2/clbby9tdf00160fkyz1qixsez/project/3113555)  |
-|04	|[CPP Module_00](https://github.com/juwkim/CPP_Module_00)	|CPP					|-	|![juwkim's 42 CPP Module 00 Score](https://badge42.vercel.app/api/v2/clbby9tdf00160fkyz1qixsez/project/2986853)  |
+|04	|Exam Rank 04							|-					|-	|[![juwkim's 42 Exam Rank 04 Score](https://badge42.vercel.app/api/v2/clbby9tdf00160fkyz1qixsez/project/2986848)](https://projects.intra.42.fr/exam-rank-04/juwkim)           |
+|04	|[NetPractice](https://github.com/juwkim/NetPractice)		|Network				|4.43	|[![juwkim's 42 NetPractice Score](https://badge42.vercel.app/api/v2/clbby9tdf00160fkyz1qixsez/project/2986851)](https://projects.intra.42.fr/netpractice/juwkim)            |
+|04	|[cub3d](https://github.com/juwkim/cub3d)			|Computer Graphics & 3D Raycasting	|4.77	|[![juwkim's 42 cub3d Score](https://badge42.vercel.app/api/v2/clbby9tdf00160fkyz1qixsez/project/3113555)](https://projects.intra.42.fr/cub3d/juwkim)			|
+|04	|[CPP Module_00](https://github.com/juwkim/CPP_Module_00)	|CPP					|-	|[![juwkim's 42 CPP Module 00 Score](https://badge42.vercel.app/api/v2/clbby9tdf00160fkyz1qixsez/project/2986853)](https://projects.intra.42.fr/cpp-module-00/juwkim)	|
 
 ---
 
