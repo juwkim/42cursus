@@ -103,7 +103,7 @@ The table below presents the cursus curriculum in the chronological order in whi
 |04	|Exam Rank 04							|-					|-	|[![juwkim's 42 Exam Rank 04 Score](https://badge42.vercel.app/api/v2/clbby9tdf00160fkyz1qixsez/project/2986848)](https://projects.intra.42.fr/exam-rank-04/juwkim)           |
 |04	|[NetPractice](https://github.com/juwkim/NetPractice)		|Network				|4.43	|[![juwkim's 42 NetPractice Score](https://badge42.vercel.app/api/v2/clbby9tdf00160fkyz1qixsez/project/2986851)](https://projects.intra.42.fr/netpractice/juwkim)            |
 |04	|[cub3d](https://github.com/juwkim/cub3d)			|Computer Graphics & 3D Raycasting	|4.77	|[![juwkim's 42 cub3d Score](https://badge42.vercel.app/api/v2/clbby9tdf00160fkyz1qixsez/project/3113555)](https://projects.intra.42.fr/cub3d/juwkim)			|
-|04	|[CPP Module_00](https://github.com/juwkim/CPP_Module_00)	|CPP					|-	|[![juwkim's 42 CPP Module 00 Score](https://badge42.vercel.app/api/v2/clbby9tdf00160fkyz1qixsez/project/2986853)](https://projects.intra.42.fr/cpp-module-00/juwkim)	|
+|04	|[CPP-Module-00](https://github.com/juwkim/CPP-Module-00)	|CPP					|-	|[![juwkim's 42 CPP Module 00 Score](https://badge42.vercel.app/api/v2/clbby9tdf00160fkyz1qixsez/project/2986853)](https://projects.intra.42.fr/cpp-module-00/juwkim)	|
 
 ---
 
